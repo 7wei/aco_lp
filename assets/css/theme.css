@@ -7437,11 +7437,11 @@ a.badge.badge-white {
     padding: 0.625rem 1.5rem; } }
 
 .btn-outline-primary {
-  border-color: rgba(0, 155, 114, 0.25); }
+  border-color: #1B3765 }
   .btn-outline-primary:hover {
-    background-color: rgba(0, 155, 114, 0.2);
+    background-color: #1B3765;
     border-color: rgba(0, 0, 0, 0);
-    color: #1B3765; }
+    color: #FFFFFF; }
 
 .btn-outline-secondary {
   border-color: rgba(234, 237, 242, 0.25); }
@@ -7451,9 +7451,9 @@ a.badge.badge-white {
     color: #EAEDF2; }
 
 .btn-outline-success {
-  border-color: rgba(0, 155, 114, 0.25); }
+  border-color: #1B3765; }
   .btn-outline-success:hover {
-    background-color: rgba(0, 155, 114, 0.2);
+    background-color: #1B3765;
     border-color: rgba(0, 0, 0, 0);
     color: #1B3765; }
 
