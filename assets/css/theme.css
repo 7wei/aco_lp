@@ -1765,7 +1765,7 @@ textarea.form-control {
     .btn {
       transition: none; } }
   .btn:hover {
-    color: #555A64;
+    color: #1B3765;
     text-decoration: none; }
   .btn:focus, .btn.focus {
     outline: 0;
@@ -1789,7 +1789,8 @@ fieldset:disabled a.btn {
   box-shadow: none; }
   .btn-primary:hover {
     color: #fff;
-    background-color: #007556;
+    opacity: 0.9;
+    background-color: #1B3765;
     border-color: #00684c; }
   .btn-primary:focus, .btn-primary.focus {
     box-shadow: none, 0 0 0 0.2rem rgba(38, 170, 135, 0.5); }
