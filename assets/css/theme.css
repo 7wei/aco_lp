@@ -13507,3 +13507,15 @@ pre[class*="language-"] {
   word-break: break-word; }
 
 /*# sourceMappingURL=theme.css.map */
+
+#brand_logo {
+  height: 128px;
+  width: 128px;
+}
+
+@media (max-width: 767.98px) {
+  #brand_logo {
+    height: 96px;
+    width: 96px;
+  }
+}
