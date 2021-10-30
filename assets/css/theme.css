@@ -7643,7 +7643,10 @@ a.card {
 
 .container {
   position: relative;
-  z-index: 1; }
+  z-index: 1;
+  padding-left: 24px;
+  padding-right: 24px;
+}
 
 .dropdown-item {
   font-weight: 700;
